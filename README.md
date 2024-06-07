@@ -1,3 +1,5 @@
+![House Picture](Photo.webp)
+
 # House Price Prediction Project
 
 ## Overview
