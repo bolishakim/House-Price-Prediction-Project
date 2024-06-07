@@ -22,13 +22,13 @@ This repository contains the code and resources for a machine learning project f
 - Jupyter Notebook: Interactive development and documentation.
 
 ## Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/house-price-prediction.git`
+1. Clone the repository: `git clone https://github.com/bolishakim/house-price-prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Explore the notebooks in the `notebooks/` directory to understand the project workflow and findings.
 4. Run the notebooks locally to reproduce the analysis and results.
 
 ## Acknowledgments
-This project was completed as part of [mention any course, workshop, or personal project here]. Special thanks to [mention any collaborators, mentors, or sources of inspiration].
+This project was completed as part of Knowledge Discovery and Data Mining 1 course. 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
